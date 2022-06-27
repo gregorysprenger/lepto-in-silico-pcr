@@ -1,0 +1,770 @@
+accession	species	serovar	strain	# of seq	nuc. identity	length per AE010300
+GCF_004769835.1	biflexa		201601962	0	0.0	0
+GCF_004770315.1	biflexa		201601961	0	0.0	0
+GCF_004770325.1	biflexa		201601960	0	0.0	0
+GCF_004770345.1	biflexa		201601958	0	0.0	0
+GCF_004770805.1	biflexa		201601959	0	0.0	0
+GCF_001542585.1	interrogans		702	1	100.0	100.0
+GCF_001542605.1	interrogans		733	1	100.0	100.0
+GCF_001567645.1	interrogans		H78Shuang4	1	100.0	100.0
+GCF_001567655.1	interrogans		56673	1	100.0	100.0
+GCF_001567675.1	interrogans		56666	1	100.0	100.0
+GCF_001567705.1	interrogans		56678	1	100.0	100.0
+GCF_001567725.1	interrogans		200040	1	100.0	100.0
+GCF_001567735.1	interrogans		200509	1	100.0	100.0
+GCF_001567745.1	interrogans		CMCC-1	1	100.0	100.0
+GCF_001567785.1	interrogans		CMCC-3	1	100.0	100.0
+GCF_001567825.1	interrogans		G32	1	100.0	100.0
+GCF_001567835.1	interrogans		56612	1	100.0	100.0
+GCF_001567885.1	interrogans		56618	1	100.0	100.0
+GCF_001567895.1	interrogans		56626	1	100.0	100.0
+GCF_001567905.1	interrogans		56627	1	100.0	100.0
+GCF_001567945.1	interrogans		56630	1	100.0	100.0
+GCF_001567965.1	interrogans		56635	0	0.0	0
+GCF_001567975.1	interrogans		56638	0	0.0	0
+GCF_001567985.1	interrogans		56642	1	100.0	100.0
+GCF_001568025.1	interrogans		56647	1	100.0	100.0
+GCF_001568045.1	interrogans		56652	1	100.0	100.0
+GCF_001568065.1	interrogans		56656	1	100.0	100.0
+GCF_001568075.1	interrogans		56101	1	100.0	100.0
+GCF_001568105.1	interrogans		56104	1	100.0	100.0
+GCF_001568125.1	interrogans		56121	1	100.0	100.0
+GCF_001568135.1	interrogans		56126	1	100.0	100.0
+GCF_001568155.1	interrogans		56129	0	0.0	0
+GCF_001568175.1	interrogans		56143	1	100.0	100.0
+GCF_001568205.1	interrogans		56201	1	100.0	100.0
+GCF_001568215.1	interrogans		56601-V	1	100.0	100.0
+GCF_001568225.1	interrogans		56605	1	100.0	100.0
+GCF_001568265.1	interrogans		56606	1	100.0	100.0
+GCF_001568285.1	interrogans		56606-V	1	100.0	100.0
+GCF_001568525.1	interrogans		56662	1	100.0	100.0
+GCF_001568535.1	interrogans		A05D31	1	100.0	100.0
+GCF_001568565.1	interrogans		CMCC-2	1	100.0	100.0
+GCF_001568575.1	interrogans		H30H0728	1	100.0	100.0
+GCF_001568605.1	interrogans		G30	1	100.0	100.0
+GCF_001568615.1	interrogans		J42	1	100.0	100.0
+GCF_001568645.1	interrogans		J9	1	100.0	100.0
+GCF_001568655.1	interrogans		56619	0	0.0	0
+GCF_001568685.1	interrogans		56620	1	100.0	100.0
+GCF_001568695.1	interrogans		56624	1	100.0	100.0
+GCF_001568725.1	interrogans		56625	0	0.0	0
+GCF_001568735.1	interrogans		56628	1	100.0	100.0
+GCF_001568765.1	interrogans		56629	1	100.0	100.0
+GCF_001568775.1	interrogans		56634	1	100.0	100.0
+GCF_001568805.1	interrogans		56639	0	0.0	0
+GCF_001568815.1	interrogans		56649	1	100.0	100.0
+GCF_001568845.1	interrogans		56653	1	100.0	100.0
+GCF_001568855.1	interrogans		56651	1	100.0	100.0
+GCF_001568885.1	interrogans		56660	1	100.0	100.0
+GCF_001568935.1	interrogans		56133	1	100.0	100.0
+GCF_001568965.1	interrogans		56135	1	100.0	100.0
+GCF_001568985.1	interrogans		56137	0	0.0	0
+GCF_001568995.1	interrogans		56603	1	100.0	100.0
+GCF_001569005.1	interrogans		56601	1	100.0	100.0
+GCF_001569045.1	interrogans		56608-V	1	100.0	100.0
+GCF_001569065.1	interrogans		56608	1	100.0	100.0
+GCF_001569075.1	interrogans		56609	1	100.0	100.0
+GCF_001569105.1	interrogans		56609-V	1	100.0	100.0
+GCF_001569125.1	interrogans		56610	1	100.0	100.0
+GCF_002074835.1	interrogans		401	1	100.0	100.0
+GCF_002370075.1	interrogans		CUDO8	1	100.0	100.0
+GCF_002370085.2	interrogans		CUDO5	1	100.0	100.0
+GCF_005222565.1	interrogans		FMAS_KW1	2	100.0	100.0, 100.0
+GCF_005222585.1	interrogans		FMAS_KW2	2	100.0	100.0, 100.0
+GCF_005222625.1	interrogans		FMAS_AW1	2	100.0	100.0, 100.0
+GCF_006568875.1	interrogans		IP1512015	1	100.0	100.0
+GCF_006568885.1	interrogans		IP1512016	1	100.0	100.0
+GCF_006568945.1	interrogans		IP1507003	1	100.0	100.0
+GCF_006569045.1	interrogans		IP1512014	1	100.0	100.0
+GCF_009884035.1	interrogans		R13-L	0	0.0	0
+GCF_009884055.1	interrogans		R17	0	0.0	0
+GCF_009884075.1	interrogans		R21	0	0.0	0
+GCF_009884095.1	interrogans		R22	0	0.0	0
+GCF_009884115.1	interrogans		R16	0	0.0	0
+GCF_009884135.1	interrogans		R13	0	0.0	0
+GCF_009884175.1	interrogans		R11	1	100.0	100.0
+GCF_009884195.1	interrogans		R7	0	0.0	0
+GCF_009884255.1	interrogans		R19	0	0.0	0
+GCF_009884275.1	interrogans		R12	0	0.0	0
+GCF_016858285.1	interrogans		HP358	1	100.0	100.0
+GCF_019173445.1	interrogans		s180	1	100.0	100.0
+GCF_019173465.1	interrogans		s146	1	100.0	100.0
+GCF_019173505.1	interrogans		s147	1	100.0	100.0
+GCF_019173525.1	interrogans		s145	1	100.0	100.0
+GCF_021014375.1	interrogans		Che_2014	1	100.0	100.0
+GCF_021378355.1	interrogans		UI29382	2	100.0	100.0, 100.0
+GCF_022343745.1	interrogans		FMAS_PN2	2	100.0	100.0, 100.0
+GCF_022343765.1	interrogans		FMAS_AP7	2	100.0	100.0, 100.0
+GCF_022343785.1	interrogans		FMAS_AP6	2	100.0	100.0, 100.0
+GCF_022343805.1	interrogans		FMAS_AP5	2	100.0	100.0, 100.0
+GCF_022343825.1	interrogans		FMAS_RT2	2	100.0	100.0, 100.0
+GCF_022436445.1	interrogans		KR40	0	0.0	0
+GCF_022436545.1	interrogans		KR84	1	100.0	100.0
+GCF_022436565.1	interrogans		N116	1	100.0	100.0
+GCF_022436605.1	interrogans		KR85	1	100.0	100.0
+GCF_022453705.1	interrogans		FMAS_AP1	2	100.0	100.0, 100.0
+GCF_022453725.1	interrogans		FMAS_AW3	2	100.0	100.0, 100.0
+GCF_022453745.1	interrogans		FMAS_KG1	2	100.0	100.0, 100.0
+GCF_022488445.1	interrogans		FMAS_AW2	2	100.0	100.0, 100.0
+GCF_022488465.1	interrogans		FMAS_PD1	2	100.0	100.0, 100.0
+GCF_022559725.1	interrogans		FMAS_KG2	2	100.0	100.0, 100.0
+GCF_022699205.1	interrogans		NEG7	1	100.0	100.0
+GCF_023515975.1	interrogans		N 116	2	100.0	100.0, 100.0
+GCF_023572805.1	interrogans		B004	1	100.0	100.0
+GCF_900156205.1	interrogans		ATCC 43642	2	100.0	100.0, 100.0
+GCF_001568295.1	borgpetersenii		56670	1	100.0	100.0
+GCF_001568305.1	borgpetersenii		56676	1	100.0	100.0
+GCF_001568445.1	borgpetersenii		56142	1	100.0	100.0
+GCF_001568485.1	borgpetersenii		56214	1	100.0	100.0
+GCF_001568495.1	borgpetersenii		56607	1	100.0	100.0
+GCF_001569145.1	borgpetersenii		56664	1	100.0	100.0
+GCF_001569155.1	borgpetersenii		56648	1	100.0	100.0
+GCF_001569455.1	borgpetersenii		56602	1	100.0	100.0
+GCF_001569465.1	borgpetersenii		56604	1	100.0	100.0
+GCF_001569485.1	borgpetersenii		56613	1	100.0	100.0
+GCF_009858015.1	borgpetersenii		R29	1	100.0	100.0
+GCF_009858035.1	borgpetersenii		R23	1	100.0	100.0
+GCF_009858055.1	borgpetersenii		R28	1	100.0	100.0
+GCF_009858075.1	borgpetersenii		R6	1	100.0	100.0
+GCF_009858095.1	borgpetersenii		Mo4	1	100.0	100.0
+GCF_009884155.1	borgpetersenii		R14	1	100.0	100.0
+GCF_009884215.1	borgpetersenii		R6L	1	100.0	100.0
+GCF_009884235.1	borgpetersenii		R14-L	0	0.0	0
+GCF_018332395.1	borgpetersenii		KHM09	1	100.0	100.0
+GCF_018332415.1	borgpetersenii		KHM19	1	100.0	100.0
+GCF_018332435.1	borgpetersenii		KHM25	1	100.0	100.0
+GCF_018399095.1	borgpetersenii		FMAS_PN4	2	100.0	100.0, 100.0
+GCF_018402785.1	borgpetersenii		FMAS_AP8	2	100.0	100.0, 100.0
+GCF_018402805.1	borgpetersenii		FMAS_AP9	2	100.0	100.0, 100.0
+GCF_018402825.1	borgpetersenii		FMAS_AP2	2	100.0	100.0, 100.0
+GCF_018402845.1	borgpetersenii		FMAS_AP3	2	100.0	100.0, 100.0
+GCF_018403805.1	borgpetersenii		FMAS_PN1	2	100.0	100.0, 100.0
+GCF_018403825.1	borgpetersenii		FMAS_AP4	2	100.0	100.0, 100.0
+GCF_023547025.1	borgpetersenii		34-PK	2	100.0	100.0, 100.0
+GCF_001995195.1	interrogans	serovar	OV5	1	100.0	100.0
+GCF_008118365.1	interrogans	serovar	L53	2	99.34640522875817	100.0, 100.0
+GCF_000306635.1	noguchii		HAI1536	1	100.0	100.0
+GCF_001276935.1	noguchii		U73	1	100.0	100.0
+GCF_001568325.1	noguchii		56682	0	0.0	0
+GCF_001569165.1	noguchii		56183	1	100.0	100.0
+GCF_001569205.1	noguchii		56190	1	100.0	100.0
+GCF_001569215.1	noguchii		56189	0	0.0	0
+GCF_001569225.1	noguchii		56271	1	100.0	100.0
+GCF_006568845.1	noguchii		IP1605021	1	100.0	100.0
+GCF_022439725.1	noguchii		bajan	2	100.0	100.0, 100.0
+GCF_022439735.1	noguchii		201102933	2	100.0	100.0, 100.0
+GCF_022819405.1	noguchii		IP1712055	2	99.34640522875817	100.0, 100.0
+GCF_022819425.1	noguchii		IP1709037	2	100.0	100.0, 100.0
+GCF_022819445.1	noguchii		IP1705032	2	100.0	100.0, 100.0
+GCF_022819565.1	noguchii		IP1703027	2	99.34640522875817	100.0, 100.0
+GCF_022819715.1	noguchii		IP1611024	2	100.0	100.0, 100.0
+GCF_022819915.1	noguchii		IP1605021	2	100.0	100.0, 100.0
+GCF_022820045.1	noguchii		IP1512017	2	100.0	100.0, 100.0
+GCF_022820235.1	noguchii		201601331	2	100.0	100.0, 100.0
+GCF_022820405.1	noguchii		barbudensis	2	100.0	100.0, 100.0
+GCF_022820565.1	noguchii		IP1804061	2	100.0	100.0, 100.0
+GCF_000988105.2	santarosai		U160	1	100.0	100.0
+GCF_001008325.2	santarosai		U233	1	100.0	100.0
+GCF_001008335.2	santarosai		U164	2	100.0	100.0, 100.0
+GCF_001568365.1	santarosai		56198	1	100.0	100.0
+GCF_001568375.1	santarosai		56180	1	100.0	100.0
+GCF_001569265.1	santarosai		56163	1	100.0	100.0
+GCF_001569285.1	santarosai		56164	1	100.0	100.0
+GCF_001569295.1	santarosai		56215	1	100.0	100.0
+GCF_001569305.1	santarosai		56274	1	100.0	100.0
+GCF_001569335.1	santarosai		56663	1	100.0	100.0
+GCF_001584305.1	santarosai		C216	1	100.0	100.0
+GCF_001981505.1	santarosai		M52/8-19	1	100.0	100.0
+GCF_002287705.1	santarosai		DU92	1	100.0	100.0
+GCF_001568405.1	weilii		56622	1	100.0	100.0
+GCF_001568415.1	weilii		56646	1	100.0	100.0
+GCF_001568905.1	weilii		56679	1	100.0	100.0
+GCF_001568915.1	weilii		56674	1	100.0	100.0
+GCF_001569365.1	weilii		56145	1	100.0	100.0
+GCF_001569375.1	weilii		56105	1	100.0	100.0
+GCF_001569385.1	weilii		56621	1	100.0	100.0
+GCF_001569525.1	weilii		56655	1	100.0	100.0
+GCF_006874745.1	weilii		CUD13	2	99.34640522875817	100.0, 100.0
+GCF_006874765.1	weilii		CUDO6	2	99.34640522875817	100.0, 100.0
+GCF_022344045.1	weilii		FMAS_PD2	2	100.0	100.0, 100.0
+GCF_022453935.1	weilii		FMAS_RT1	2	100.0	100.0, 100.0
+GCF_023572825.1	weilii		B208	1	100.0	100.0
+GCF_001568455.1	alstonii		56667	1	100.0	100.0
+GCF_001569395.1	alstonii		56661	1	100.0	100.0
+GCF_001569445.1	alstonii		56668	1	100.0	100.0
+GCF_000346995.1	kirschneri		CBC613	1	100.0	100.0
+GCF_001584245.1	kirschneri		ZV013	1	100.0	100.0
+GCF_002009725.1	kirschneri		56168	1	100.0	100.0
+GCF_002009765.1	kirschneri		56611	1	100.0	100.0
+GCF_002811905.1	meyeri		ES1-C-A1	0	0.0	0
+GCF_002812015.1	meyeri		ES1-C-A2	0	0.0	0
+GCF_002812075.1	meyeri		ATI2-C-A2	0	0.0	0
+GCF_004368965.1	meyeri		DSM 21537	0	0.0	0
+GCF_004769345.1	meyeri		201800270	0	0.0	0
+GCF_004770275.1	meyeri		201701676	0	0.0	0
+GCF_004770525.1	meyeri		201601300	0	0.0	0
+GCF_004770545.1	meyeri		201702475	0	0.0	0
+GCF_004770925.1	meyeri		201601301	0	0.0	0
+GCF_002018145.1	kirschneri	serovar	UCR5RB1	2	100.0	100.0, 100.0
+GCF_001443305.1	interrogans	serovar	Hardjoprajitno	1	100.0	100.0
+GCF_002073495.2	interrogans	serovar	FDAARGOS_203	2	100.0	100.0, 100.0
+GCF_008629705.1	interrogans	serovar	CLEP00152	1	100.0	100.0
+GCF_009721635.1	interrogans	serovar	CLEP00179	1	100.0	100.0
+GCF_010978155.1	interrogans	serovar	SK1	1	100.0	100.0
+GCF_013358565.1	interrogans	serovar	Taganrog-2018	1	100.0	100.0
+GCF_017653725.1	interrogans	serovar	R287	1	100.0	100.0
+GCF_017653755.1	interrogans	serovar	S199/4	1	100.0	100.0
+GCF_017653785.1	interrogans	serovar	B42	1	100.0	100.0
+GCF_017653825.1	interrogans	serovar	B33	1	100.0	100.0
+GCF_017653845.1	interrogans	serovar	W26	1	100.0	100.0
+GCF_017653855.1	interrogans	serovar	S606	1	100.0	100.0
+GCF_017653945.1	interrogans	serovar	S72	1	100.0	100.0
+GCF_017653965.1	interrogans	serovar	S199/6	1	100.0	100.0
+GCF_017653985.1	interrogans	serovar	B167	1	100.0	100.0
+GCF_017654025.1	interrogans	serovar	S199/3	1	100.0	100.0
+GCF_017654055.1	interrogans	serovar	S199/5	1	100.0	100.0
+GCF_017654085.1	interrogans	serovar	S199/12	1	100.0	100.0
+GCF_017654105.1	interrogans	serovar	S1006	1	100.0	100.0
+GCF_001857845.1	interrogans	serovar	AKRFB	1	100.0	100.0
+GCF_001969075.1	interrogans	serovar	GR5	1	100.0	100.0
+GCF_015162495.1	interrogans	serovar	A2_Ee_MM168	1	100.0	100.0
+GCF_015162505.1	interrogans	serovar	A3_Ee_MM266	1	100.0	100.0
+GCF_015162605.1	interrogans	serovar	A_Bt_HO905	1	100.0	100.0
+GCF_015162815.1	interrogans	serovar	EMY7780	1	100.0	100.0
+GCF_015162835.1	interrogans	serovar	ESR8	1	100.0	100.0
+GCF_015318485.1	interrogans	serovar	B33	1	100.0	100.0
+GCF_015318515.1	interrogans	serovar	AO25ii	1	100.0	100.0
+GCF_015318565.1	interrogans	serovar	Pom_str68	1	100.0	100.0
+GCF_000758025.1	interrogans	serovar	SR61	1	100.0	100.0
+GCF_002076815.1	interrogans	serovar	Col-P036	1	100.0	100.0
+GCF_014858815.1	interrogans	serovar	898	2	100.0	100.0, 100.0
+GCF_014858895.1	interrogans	serovar	Langkawi	2	100.0	100.0, 100.0
+GCF_017653805.1	interrogans	serovar	S199/2	1	100.0	100.0
+GCF_017653925.1	interrogans	serovar	X240	1	100.0	100.0
+GCF_017654005.1	interrogans	serovar	B126	1	100.0	100.0
+GCF_002009775.1	alexanderi		56650	1	100.0	100.0
+GCF_002009805.1	alexanderi		56643	1	100.0	100.0
+GCF_002009825.1	alexanderi		56640	1	100.0	100.0
+GCF_002009835.1	alexanderi		56159	1	100.0	100.0
+GCF_002009845.1	alexanderi		56659	1	100.0	100.0
+GCF_000092565.1	interrogans	serovar	56601	2	96.22641509433963	100.0, 100.0
+GCF_001412475.2	interrogans	serovar	LO-4	1	100.0	100.0
+GCF_001417585.1	interrogans	serovar	LO-3	1	100.0	100.0
+GCF_002916855.1	interrogans	serovar	A75	1	100.0	100.0
+GCF_008831445.1	interrogans	serovar	LJ178	2	100.0	100.0, 100.0
+GCF_008831465.1	interrogans	serovar	611	2	100.0	100.0, 100.0
+GCF_014858915.1	interrogans	serovar	782	2	100.0	100.0, 100.0
+GCF_022509745.1	interrogans	serovar	769341	1	100.0	100.0
+GCF_001995205.1	interrogans	serovar	SU5	2	99.34640522875817	100.0, 100.0
+GCF_000612525.2	interrogans	serovar	mutant m77	1	100.0	100.0
+GCF_001047635.1	interrogans	serovar	UP-MMC-NIID LP	2	100.0	100.0, 100.0
+GCF_001047655.1	interrogans	serovar	UP-MMC-NIID HP	2	100.0	100.0, 100.0
+GCF_900236655.1	interrogans	serovar	nan	1	100.0	100.0
+GCF_000007685.1	interrogans	serovar	Fiocruz L1-130	2	96.22641509433963	100.0, 100.0
+GCF_003046425.1	borgpetersenii	serovar	DSM 21538	1	100.0	100.0
+GCF_000758045.1	borgpetersenii	serovar	Muis5	1	100.0	100.0
+GCF_002018035.1	borgpetersenii	serovar	LO-24	1	100.0	100.0
+GCF_015161435.1	borgpetersenii	serovar	A1_Mm_MM043	1	100.0	100.0
+GCF_015161445.1	borgpetersenii	serovar	MU_Rr_LW001	1	100.0	100.0
+GCF_015161465.1	borgpetersenii	serovar	B1_Mm_MM050	1	100.0	100.0
+GCF_015161475.1	borgpetersenii	serovar	B1_Mm_MM098	1	100.0	100.0
+GCF_015161535.1	borgpetersenii	serovar	A4_Mm_MM361	1	100.0	100.0
+GCF_015161545.1	borgpetersenii	serovar	A1_Mm_MM037	1	100.0	100.0
+GCF_015161555.1	borgpetersenii	serovar	A4_Mm_MM351	1	100.0	100.0
+GCF_015161575.1	borgpetersenii	serovar	A4_Mm_MM350	1	100.0	100.0
+GCF_015161595.1	borgpetersenii	serovar	A4_Mm_MM354	1	100.0	100.0
+GCF_015161635.1	borgpetersenii	serovar	A4_Ee_MM342	1	100.0	100.0
+GCF_015161645.1	borgpetersenii	serovar	A4_Mm_MM336	1	100.0	100.0
+GCF_015161665.1	borgpetersenii	serovar	A4_Mm_MM325	1	100.0	100.0
+GCF_015161675.1	borgpetersenii	serovar	A4_Mm_MM324	1	100.0	100.0
+GCF_015161715.1	borgpetersenii	serovar	A4_Mm_MM320	1	100.0	100.0
+GCF_015161735.1	borgpetersenii	serovar	A1_Mm_MM031U	1	100.0	100.0
+GCF_015161745.1	borgpetersenii	serovar	A1_Mm_MM031K	1	100.0	100.0
+GCF_015161755.1	borgpetersenii	serovar	A1_Mm_MM028	1	100.0	100.0
+GCF_015161795.1	borgpetersenii	serovar	A3_Mm_MM280	1	100.0	100.0
+GCF_015161805.1	borgpetersenii	serovar	A3_Ee_MM277	1	100.0	100.0
+GCF_015161835.1	borgpetersenii	serovar	A3_Mm_MM275	1	100.0	100.0
+GCF_015161845.1	borgpetersenii	serovar	A3_Mm_MM273	1	100.0	100.0
+GCF_015161855.1	borgpetersenii	serovar	A3_Mm_MM272	1	100.0	100.0
+GCF_015161895.1	borgpetersenii	serovar	A1_Mm_MM026KC	1	100.0	100.0
+GCF_015161905.1	borgpetersenii	serovar	A1_Mm_MM026KB	1	100.0	100.0
+GCF_015161935.1	borgpetersenii	serovar	A3_Mm_MM269	1	100.0	100.0
+GCF_015161945.1	borgpetersenii	serovar	A3_Mm_MM268	1	100.0	100.0
+GCF_015161965.1	borgpetersenii	serovar	A3_Mm_MM265	1	100.0	100.0
+GCF_015161995.1	borgpetersenii	serovar	A3_Mm_MM264	1	100.0	100.0
+GCF_015162005.1	borgpetersenii	serovar	A3_Mm_MM263	1	100.0	100.0
+GCF_015162035.1	borgpetersenii	serovar	A3_Mm_MM262	1	100.0	100.0
+GCF_015162045.1	borgpetersenii	serovar	A3_Mm_MM261	1	100.0	100.0
+GCF_015162055.1	borgpetersenii	serovar	A3_Mm_MM260	1	100.0	100.0
+GCF_015162095.1	borgpetersenii	serovar	A3_Mm_MM258	1	100.0	100.0
+GCF_015162105.1	borgpetersenii	serovar	A3_Mm_MM259	1	100.0	100.0
+GCF_015162135.1	borgpetersenii	serovar	A3_Mm_MM257	1	100.0	100.0
+GCF_015162145.1	borgpetersenii	serovar	A3_Mm_MM256	1	100.0	100.0
+GCF_015162155.1	borgpetersenii	serovar	A2_Mm_MM244	1	100.0	100.0
+GCF_015162195.1	borgpetersenii	serovar	A2_Mm_MM242	1	100.0	100.0
+GCF_015162205.1	borgpetersenii	serovar	A2_Mm_MM211	1	100.0	100.0
+GCF_015162235.1	borgpetersenii	serovar	A2_Mm_MM200	1	100.0	100.0
+GCF_015162245.1	borgpetersenii	serovar	A2_Ee_MM196	1	100.0	100.0
+GCF_015162255.1	borgpetersenii	serovar	A2_Ee_MM195	1	100.0	100.0
+GCF_015162295.1	borgpetersenii	serovar	A2_Mm_MM189	1	100.0	100.0
+GCF_015162305.1	borgpetersenii	serovar	A2_Mm_MM161	1	100.0	100.0
+GCF_015162335.1	borgpetersenii	serovar	A2_Mm_MM148	1	100.0	100.0
+GCF_015162345.1	borgpetersenii	serovar	A2_Mm_MM159	1	100.0	100.0
+GCF_015162355.1	borgpetersenii	serovar	A1_Mm_MM013U	1	100.0	100.0
+GCF_015162395.1	borgpetersenii	serovar	A1_Mm_MM013K	1	100.0	100.0
+GCF_015162405.1	borgpetersenii	serovar	A2_Mm_MM138	1	100.0	100.0
+GCF_015162415.1	borgpetersenii	serovar	A2_Mm_MM134	1	100.0	100.0
+GCF_015162425.1	borgpetersenii	serovar	A1_Mm_MM010	1	100.0	100.0
+GCF_015162475.1	borgpetersenii	serovar	B1_Mm_MM119	1	100.0	100.0
+GCF_015162515.1	borgpetersenii	serovar	A1_Mm_MM006	1	100.0	100.0
+GCF_015162915.1	borgpetersenii	serovar	Bal_mus127	1	100.0	100.0
+GCF_015318255.1	borgpetersenii	serovar	A4_Ee_MM344	1	100.0	100.0
+GCF_015318305.1	borgpetersenii	serovar	A4_Mm_MM332	1	100.0	100.0
+GCF_015318325.1	borgpetersenii	serovar	A4_Mm_MM330	1	100.0	100.0
+GCF_015318345.1	borgpetersenii	serovar	A4_Mm_MM313	1	100.0	100.0
+GCF_015318355.1	borgpetersenii	serovar	A4_Mm_MM310	1	100.0	100.0
+GCF_015162825.1	borgpetersenii	serovar	Precious	1	100.0	100.0
+GCF_015162865.1	borgpetersenii	serovar	Gill	1	100.0	100.0
+GCF_015162935.1	borgpetersenii	serovar	Tar18_2	1	100.0	100.0
+GCF_015162945.1	borgpetersenii	serovar	Tar14	1	100.0	100.0
+GCF_015162955.1	borgpetersenii	serovar	Tar10	1	100.0	100.0
+GCF_015163015.1	borgpetersenii	serovar	Tar-Perepelitsin	1	100.0	100.0
+GCF_015163045.1	borgpetersenii	serovar	T74	1	100.0	100.0
+GCF_004769275.1	yanagawae		201800272	0	0.0	0
+GCF_001704175.2	inadai	serovar	M34/99	1	100.0	100.0
+GCF_004770365.1	vanthielii		201601955	0	0.0	0
+GCF_001650015.1	interrogans	serovar	LepIMR 22	1	100.0	100.0
+GCF_010287845.2	interrogans	serovar	D64	2	100.0	100.0, 100.0
+GCF_014858865.1	interrogans	serovar	1489	2	100.0	100.0, 100.0
+GCF_014858935.1	interrogans	serovar	1548	2	100.0	100.0, 100.0
+GCF_001010765.1	interrogans	serovar	PigK151	2	100.0	100.0, 100.0
+GCF_000017605.1	biflexa	serovar	Patoc 1 (Ames)	0	0.0	0
+GCF_015223365.1	kirschneri	serovar	Wumalasena	1	100.0	100.0
+GCF_002811455.1	kmetyi		JW2-C-B1	1	100.0	100.0
+GCF_002812065.1	kmetyi		JW3-C-A1	1	100.0	100.0
+GCF_003722295.1	kmetyi		LS 001/16	2	100.0	100.0, 100.0
+GCF_004769185.1	kmetyi		SCS7	1	100.0	100.0
+GCF_004770065.1	kmetyi		SCS11	1	100.0	100.0
+GCF_004770175.1	kmetyi		201702448	1	100.0	100.0
+GCF_002811825.1	wolffii		FH2-C-A2	1	100.0	100.0
+GCF_004769375.1	wolffii		201800264	1	100.0	100.0
+GCF_004770635.1	wolffii		201800291	1	100.0	100.0
+GCF_004770695.1	wolffii		201800290	1	100.0	100.0
+GCF_004770705.1	wolffii		201702691	1	100.0	100.0
+GCF_004770715.1	wolffii		201800289	1	100.0	100.0
+GCF_001022315.1	interrogans	serovar	acegua	1	100.0	100.0
+GCF_000772835.2	kirschneri	serovar	61H	1	100.0	100.0
+GCF_001401895.1	kirschneri	serovar	M36/05	2	100.0	100.0, 100.0
+GCF_010095425.1	kirschneri	serovar	Horse 112	1	100.0	100.0
+GCF_004770455.1	licerasiae		201601117	1	100.0	100.0
+GCF_000017685.1	biflexa	serovar	Patoc 1 (Paris)	0	0.0	0
+GCF_015162625.1	borgpetersenii	serovar	SN_Ce_RL4	1	100.0	100.0
+GCF_015162645.1	borgpetersenii	serovar	SN_Ce_RL16	1	100.0	100.0
+GCF_015162975.1	borgpetersenii	serovar	Bal_possum	1	100.0	100.0
+GCF_015318545.1	borgpetersenii	serovar	P44	1	100.0	100.0
+GCF_015318635.1	borgpetersenii	serovar	Bal_Burgas	1	100.0	100.0
+GCF_003516145.1	borgpetersenii	serovar	Piyasena	2	100.0	100.0, 100.0
+GCF_001952685.1	santarosai	serovar	M4/98	2	100.0	100.0, 100.0
+GCF_002018105.1	kirschneri	serovar	M110/06	2	100.0	100.0, 100.0
+GCF_000231175.1	interrogans	serovar	IPAV	2	96.22641509433963	100.0, 100.0
+GCF_015318575.1	borgpetersenii	serovar	Arb_1958	1	100.0	100.0
+GCF_000313175.2	santarosai	serovar	LT 821	2	99.34640522875817	100.0, 100.0
+GCF_000217515.1	interrogans		2002000624	1	100.0	100.0
+GCF_000217455.2	santarosai		2000030832	1	100.0	100.0
+GCF_000216455.1	licerasiae	serovar	MMD0835	1	100.0	100.0
+GCF_000216415.1	interrogans	serovar	HAI0024	1	100.0	100.0
+GCF_000217435.1	interrogans	serovar	2006006971	1	100.0	100.0
+GCF_000217415.1	interrogans	serovar	Fiocruz LV192	1	100.0	100.0
+GCF_000217395.1	interrogans	serovar	Fiocruz LV199	1	100.0	100.0
+GCF_000217375.1	interrogans	serovar	Fiocruz LV204	1	100.0	100.0
+GCF_000217355.1	interrogans	serovar	Fiocruz LV212	1	100.0	100.0
+GCF_000217335.2	interrogans	serovar	Fiocruz LV224	1	100.0	100.0
+GCF_000217315.1	interrogans	serovar	Fiocruz LV239	1	100.0	100.0
+GCF_000217295.2	interrogans	serovar	Fiocruz LV251	3	100.0	100.0, 100.0, 100.0
+GCF_000217535.2	interrogans	serovar	Fiocruz LV130	3	100.0	100.0, 100.0, 100.0
+GCF_000217555.2	interrogans	serovar	Fiocruz LV2755	4	100.0	100.0, 100.0, 100.0, 100.0
+GCF_000217575.2	interrogans	serovar	Fiocruz LV2756 C1	1	100.0	100.0
+GCF_000217275.1	interrogans	serovar	Fiocruz LV999	1	100.0	100.0
+GCF_000217255.1	interrogans	serovar	Fiocruz LV2752	1	100.0	100.0
+GCF_000217235.1	interrogans	serovar	Fiocruz LV2759	1	100.0	100.0
+GCF_000217215.1	interrogans	serovar	Fiocruz LV2763	1	100.0	100.0
+GCF_000217195.1	interrogans	serovar	Fiocruz LV2767	1	100.0	100.0
+GCF_000217155.1	interrogans	serovar	Fiocruz LV2772	1	100.0	100.0
+GCF_000217135.1	interrogans	serovar	Fiocruz LV2776	1	100.0	100.0
+GCF_000217115.1	interrogans	serovar	Fiocruz LV2787	1	100.0	100.0
+GCF_000217095.1	interrogans	serovar	Fiocruz LV2790	1	100.0	100.0
+GCF_000217075.1	interrogans	serovar	Fiocruz LV2791	1	100.0	100.0
+GCF_000217055.1	interrogans	serovar	Fiocruz LV2799	1	100.0	100.0
+GCF_000217035.1	interrogans	serovar	Fiocruz LV2804	1	100.0	100.0
+GCF_000217015.2	interrogans	serovar	Fiocruz LV2805	1	100.0	100.0
+GCF_000216995.1	interrogans	serovar	Fiocruz LV2806	1	100.0	100.0
+GCF_000216975.1	interrogans	serovar	Fiocruz LV2811	1	100.0	100.0
+GCF_000216955.1	interrogans	serovar	Fiocruz LV2812	1	100.0	100.0
+GCF_000216935.1	interrogans	serovar	Fiocruz LV2825	1	100.0	100.0
+GCF_000216915.1	interrogans	serovar	Fiocruz LV2832	1	100.0	100.0
+GCF_000216895.1	interrogans	serovar	Fiocruz LV2840	1	100.0	100.0
+GCF_000216875.1	interrogans	serovar	Fiocruz LV2897	1	100.0	100.0
+GCF_000216855.1	interrogans	serovar	Fiocruz LV2908	1	100.0	100.0
+GCF_000216835.1	interrogans	serovar	Fiocruz LV2933	1	100.0	100.0
+GCF_000216815.1	interrogans	serovar	Fiocruz LV2948	1	100.0	100.0
+GCF_000216795.1	interrogans	serovar	Fiocruz LV2953	1	100.0	100.0
+GCF_000216775.1	interrogans	serovar	Fiocruz LV2958	1	100.0	100.0
+GCF_000216755.1	interrogans	serovar	Fiocruz LV2959	1	100.0	100.0
+GCF_000216735.1	interrogans	serovar	Fiocruz LV2973	1	100.0	100.0
+GCF_000216715.1	interrogans	serovar	Fiocruz LV3086	1	100.0	100.0
+GCF_000216695.1	interrogans	serovar	Fiocruz LV3094	1	100.0	100.0
+GCF_000216675.1	interrogans	serovar	Fiocruz LV3096	1	100.0	100.0
+GCF_000216655.1	interrogans	serovar	Fiocruz LV3244	1	100.0	100.0
+GCF_000216635.1	interrogans	serovar	Fiocruz LV3323	1	100.0	100.0
+GCF_000216615.1	interrogans	serovar	Fiocruz LV3373	1	100.0	100.0
+GCF_000216595.2	interrogans	serovar	Fiocruz LV3726	1	100.0	100.0
+GCF_000216575.1	interrogans	serovar	Fiocruz LV3737	1	100.0	100.0
+GCF_000216555.2	interrogans	serovar	Fiocruz LV3738	1	100.0	100.0
+GCF_000216535.1	interrogans	serovar	Fiocruz LV3834	1	100.0	100.0
+GCF_000216515.1	interrogans	serovar	Fiocruz LV3879	1	100.0	100.0
+GCF_000216495.1	interrogans	serovar	Fiocruz R83	1	100.0	100.0
+GCF_000216475.1	interrogans	serovar	R066	1	100.0	100.0
+GCF_000216435.1	interrogans	serovar	HAI0156	1	100.0	100.0
+GCF_000216395.1	interrogans	serovar	MMD1562	1	100.0	100.0
+GCF_000216375.1	interrogans	serovar	Mallika	1	100.0	100.0
+GCF_000216355.1	interrogans	serovar	Pomona	1	100.0	100.0
+GCF_000216335.1	interrogans		2002000621	1	100.0	100.0
+GCF_000216315.1	weilii		2006001853	1	100.0	100.0
+GCF_000216235.1	interrogans		C10069	1	100.0	100.0
+GCF_000216275.1	santarosai		2000027870	1	100.0	100.0
+GCF_000216255.2	noguchii		2006001870	1	100.0	100.0
+GCF_000306255.2	noguchii	serovar	CZ214	3	98.69281045751634	100.0, 100.0, 100.0
+GCF_000216195.1	interrogans	serovar	LT1649	1	100.0	100.0
+GCF_000216055.1	interrogans	serovar	Fiocruz LV2756C6	1	100.0	100.0
+GCF_000216035.1	interrogans	serovar	Fiocruz R154	1	100.0	100.0
+GCF_000216095.1	interrogans	serovar	2006007831	1	100.0	100.0
+GCF_000216075.1	interrogans	serovar	2001025091	1	100.0	100.0
+GCF_000243815.2	alexanderi	serovar	L 60	1	100.0	100.0
+GCF_000244495.1	borgpetersenii	serovar	200801910	1	100.0	100.0
+GCF_000246695.1	borgpetersenii	serovar	L0864	1	100.0	100.0
+GCF_000244075.1	borgpetersenii	serovar	MK146	1	100.0	100.0
+GCF_000244255.2	borgpetersenii	serovar	UI 09931	1	100.0	100.0
+GCF_000246555.1	borgpetersenii	serovar	TE 0159	1	100.0	100.0
+GCF_000244835.1	borgpetersenii	serovar	201000851	1	100.0	100.0
+GCF_000244215.1	borgpetersenii		UI 09149	1	100.0	100.0
+GCF_000243715.2	broomii	serovar	5399	2	100.0	100.0, 100.0
+GCF_000243675.2	inadai	serovar	10	1	100.0	100.0
+GCF_000244055.1	interrogans	serovar	LP101	1	100.0	100.0
+GCF_000246135.1	interrogans	serovar	2006006959	1	100.0	100.0
+GCF_000246115.1	interrogans	serovar	2006006976	1	100.0	100.0
+GCF_000246275.1	interrogans	serovar	Kariadi-Satu	1	100.0	100.0
+GCF_000244015.1	interrogans	serovar	L1111	1	100.0	100.0
+GCF_000246255.1	interrogans	serovar	Swart	1	100.0	100.0
+GCF_000246595.1	interrogans	serovar	UT234	1	100.0	100.0
+GCF_000246535.1	interrogans	serovar	P2529	1	100.0	100.0
+GCF_000246315.1	interrogans	serovar	Brem 137	1	100.0	100.0
+GCF_000244595.2	interrogans	serovar	HAI0188	1	100.0	100.0
+GCF_000246455.1	interrogans	serovar	P2518	1	100.0	100.0
+GCF_000246575.1	interrogans	serovar	R103	1	100.0	100.0
+GCF_000244135.1	interrogans	serovar	UI 08368	1	100.0	100.0
+GCF_000244155.2	interrogans	serovar	UI 08434	1	100.0	100.0
+GCF_000244315.2	interrogans	serovar	UI 12764	2	98.69281045751634	100.0, 100.0
+GCF_000244335.2	interrogans	serovar	UI 12769	1	100.0	100.0
+GCF_000244115.1	interrogans	serovar	R499	3	99.34640522875817	100.0, 100.0, 100.0
+GCF_000246475.1	interrogans	serovar	P2422	1	100.0	100.0
+GCF_000246515.1	interrogans	serovar	P2547	1	100.0	100.0
+GCF_000246495.1	interrogans	serovar	P2554	1	100.0	100.0
+GCF_000246195.1	interrogans	serovar	Lai	1	100.0	100.0
+GCF_000246215.1	interrogans	serovar	Lai LPS mutant	1	100.0	100.0
+GCF_000246235.1	interrogans	serovar	Langkawi	1	100.0	100.0
+GCF_000243955.2	interrogans	serovar	L0448	1	100.0	100.0
+GCF_000246615.1	interrogans	serovar	L0887	1	100.0	100.0
+GCF_000244395.2	interrogans	serovar	UT053	2	100.0	100.0, 100.0
+GCF_000243755.2	interrogans	serovar	Brem 129	2	99.34640522875817	100.0, 100.0
+GCF_000243635.1	interrogans	serovar	Kennewicki LC82-25	2	99.34640522875817	100.0, 100.0
+GCF_000244415.1	interrogans	serovar	UT364	1	100.0	100.0
+GCF_000246095.1	interrogans	serovar	2006006956	1	100.0	100.0
+GCF_000243515.1	interrogans	serovar	2006006960	1	100.0	100.0
+GCF_000244095.1	interrogans	serovar	R168	3	100.0	100.0, 100.0, 100.0
+GCF_000243555.1	interrogans		2002000623	1	100.0	100.0
+GCF_000243895.1	interrogans		FPW2026	1	100.0	100.0
+GCF_000243975.2	interrogans		L0996	1	100.0	100.0
+GCF_000244695.2	interrogans		MMD3731	1	100.0	100.0
+GCF_000244175.1	interrogans		UI 08452	1	100.0	100.0
+GCF_000244235.2	interrogans		UI 09600	1	100.0	100.0
+GCF_000244275.1	interrogans		UI 12621	1	100.0	100.0
+GCF_000244295.1	interrogans		UI 12758	1	100.0	100.0
+GCF_000244375.2	interrogans		UI 13372	1	100.0	100.0
+GCF_000347095.1	interrogans		UT126	1	100.0	100.0
+GCF_000243655.2	kirschneri	serovar	1051	2	100.0	100.0, 100.0
+GCF_000243695.2	kirschneri	serovar	3522 CT	1	100.0	100.0
+GCF_000246175.1	kirschneri	serovar	Brem 127 Duyster	1	100.0	100.0
+GCF_000246155.1	kirschneri	serovar	Duyster-Boelhouwer	1	100.0	100.0
+GCF_000243855.1	kirschneri	serovar	Moskva	1	100.0	100.0
+GCF_000243615.1	kirschneri	serovar	RM52	1	100.0	100.0
+GCF_000246675.1	kirschneri	serovar	UT130	1	100.0	100.0
+GCF_000246355.1	kirschneri	serovar	B 81/7 type 3/Tsaratsovo	1	100.0	100.0
+GCF_000246335.1	kirschneri	serovar	Brem 166	1	100.0	100.0
+GCF_000243875.1	kirschneri	serovar	RM1	1	100.0	100.0
+GCF_000243915.1	kirschneri		H1	3	100.0	100.0, 100.0, 100.0
+GCF_000244515.1	kirschneri	serovar	200702274	2	100.0	100.0, 100.0
+GCF_000246295.1	kirschneri	serovar	Brem 179	1	100.0	100.0
+GCF_000243735.2	kmetyi	serovar	Bejo-Iso9	2	100.0	100.0, 100.0
+GCF_000244715.1	licerasiae		MMD4847	1	100.0	100.0
+GCF_000244755.1	licerasiae	serovar	VAR 010	1	100.0	100.0
+GCF_000243535.2	noguchii		1993005606	1	100.0	100.0
+GCF_000243575.1	noguchii		2007001578	1	100.0	100.0
+GCF_000243835.1	santarosai	serovar	MAVJ 401	1	100.0	100.0
+GCF_000244475.1	santarosai		200702252	1	100.0	100.0
+GCF_000244555.1	santarosai		CBC379	1	100.0	100.0
+GCF_000244575.1	santarosai		CBC523	1	100.0	100.0
+GCF_000244615.1	santarosai		HAI134	1	100.0	100.0
+GCF_000346915.1	santarosai		HAI1349	1	100.0	100.0
+GCF_000244655.1	santarosai		HAI1380	1	100.0	100.65
+GCF_000244675.1	santarosai		HAI821	1	100.0	100.0
+GCF_000244735.1	santarosai		MOR084	1	100.0	100.0
+GCF_000244795.1	santarosai		ZUN179	1	100.0	100.0
+GCF_000244775.1	noguchii	serovar	ZUN142	1	100.0	100.0
+GCF_000246415.1	interrogans	serovar	SriLanka1	1	100.0	100.0
+GCF_000246435.1	interrogans	serovar	SriLanka2	1	100.0	100.0
+GCF_000246075.1	interrogans	serovar	M1352_LPS_mutant	1	100.0	100.0
+GCF_000246035.1	interrogans	serovar	M776_fur_mutant	1	100.0	100.0
+GCF_000246055.1	interrogans	serovar	M874_LA0615_mutant	1	100.0	100.0
+GCF_000246015.1	interrogans	serovar	M933_lip32_mutant	1	100.0	100.0
+GCF_000245995.1	interrogans	serovar	M001_Tn_Mutant_Parent	1	100.0	100.0
+GCF_000246395.1	santarosai	serovar	11	1	100.0	100.0
+GCF_000246375.1	santarosai	serovar	7	1	100.0	100.0
+GCF_000243995.1	weilii		LNT 1234	2	98.69281045751634	100.0, 100.0
+GCF_000244355.1	weilii		UI 13098	1	100.0	100.0
+GCF_000246635.1	weilii		LNT 1194	1	100.0	100.0
+GCF_000246655.1	weilii		UI 14631	1	100.0	100.0
+GCF_003429485.1	mayottensis		MDI222	2	100.0	100.0, 100.0
+GCF_003429505.1	mayottensis		VS2413	2	100.0	100.0, 100.0
+GCF_003429525.1	mayottensis		MDI272	2	95.9731543624161	100.0, 100.0
+GCF_004770855.1	mayottensis		201601116	1	100.0	100.0
+GCF_000306675.2	mayottensis		200901116	2	95.9731543624161	100.0, 100.0
+GCF_000306375.1	borgpetersenii		200801926	1	100.0	100.0
+GCF_000306335.1	mayottensis		200901122	1	100.0	100.0
+GCF_000306235.2	fainei	serovar	BUT 6	2	100.0	100.0, 100.0
+GCF_000306435.1	sp.		Fiocruz LV3954	1	100.0	100.0
+GCF_000346675.1	sp.		Fiocruz LV4135	3	100.0	100.0, 100.0, 100.0
+GCF_000306135.1	interrogans	serovar	Fiocruz LV133	1	100.0	100.0
+GCF_000306925.1	interrogans	serovar	2006006986	1	100.0	100.0
+GCF_000306075.1	interrogans	serovar	Andaman	1	100.0	100.0
+GCF_000306295.1	interrogans	serovar	Verdun LP	1	100.0	100.0
+GCF_000306215.1	interrogans		Brem 329	1	100.0	100.0
+GCF_000306495.2	interrogans		FPW1039	1	100.0	100.0
+GCF_000347255.1	interrogans		Kito	1	100.0	100.0
+GCF_000306155.2	interrogans	serovar	Valbuzzi	1	100.0	100.0
+GCF_000306555.1	kirschneri		200801774	2	100.0	100.0, 100.0
+GCF_000306395.1	kirschneri		200802841	1	100.0	100.0
+GCF_000306595.1	kirschneri		200803703	1	100.0	100.0
+GCF_000306175.1	kirschneri		2008720114	4	100.0	100.0, 100.0, 100.0, 100.0
+GCF_000306515.1	kirschneri		H2	1	100.0	100.0
+GCF_000304275.1	meyeri	serovar	Went 5	0	0.0	0
+GCF_000306195.1	noguchii		2001034031	0	0.0	0
+GCF_000350585.1	noguchii		Cascata	1	100.0	100.0
+GCF_000350605.1	noguchii		Hook	0	0.0	0
+GCF_000306455.1	santarosai		AIM	1	100.0	100.0
+GCF_000306475.1	santarosai		JET	2	100.0	100.0, 100.0
+GCF_000306575.1	santarosai		200403458	1	100.0	100.0
+GCF_000306655.1	interrogans		HAI1594	1	100.0	100.0
+GCF_000306115.2	wolffii	serovar	Khorat-H2	2	100.0	100.0, 100.0
+GCF_004770995.1	idonii		201300427	0	0.0	0
+GCF_000332555.2	alstonii	serovar	80-412	3	100.0	100.0, 100.0, 100.0
+GCF_000347175.1	alstonii	serovar	79601	1	100.0	100.0
+GCF_000342365.1	interrogans	serovar	Fox 32256	3	100.0	100.0, 100.0, 100.0
+GCF_000347135.1	interrogans		2002000631	1	100.0	100.0
+GCF_000347115.1	interrogans		2002000632	1	100.0	100.0
+GCF_000347055.1	interrogans		2003000735	1	100.0	100.0
+GCF_000347015.1	kirschneri		MMD1493	0	0.0	0
+GCF_000346895.1	kirschneri		JB	1	100.0	100.0
+GCF_000347075.1	meyeri	serovar	Veldrot Semarang 173	0	0.0	0
+GCF_000346655.1	noguchii		Bonito	1	100.0	100.0
+GCF_000332455.1	vanthielii	serovar	Waz Holland	0	0.0	0
+GCF_000332435.1	santarosai		ST188	1	100.0	100.0
+GCF_000348015.1	santarosai		CBC1531	1	100.0	100.0
+GCF_000332415.1	weilii	serovar	ICFT	2	99.33774834437085	100.0, 100.0
+GCF_000332515.2	wolbachii	serovar	CDC	0	0.0	0
+GCF_000346955.1	sp.		P2653	1	100.0	100.0
+GCF_000347235.1	kirschneri	serovar	Nikolaevo	1	100.0	100.0
+GCF_000347215.1	kirschneri	serovar	PUO 1247	1	100.0	100.0
+GCF_000347155.1	interrogans	serovar	CSL4002	1	100.0	100.0
+GCF_000346695.1	interrogans	serovar	CSL10083	1	100.0	100.0
+GCF_000332395.2	santarosai	serovar	1342KT	2	100.0	100.0, 100.0
+GCF_000347195.1	sp.	serovar	Sh9	1	100.0	100.0
+GCF_000347035.1	sp.		B5-022	5	100.0	100.0, 100.0, 100.0, 100.0, 100.0
+GCF_000332475.2	yanagawae	serovar	Sao Paulo	0	0.0	0
+GCF_000332535.1	interrogans	serovar	M20	3	99.32885906040269	100.65, 100.0, 101.31
+GCF_000332495.1	terpstrae	serovar	LT 11-33	0	0.0	0
+GCF_001293065.1	interrogans	serovar	Norma	2	99.34640522875817	100.0, 100.0
+GCF_000353225.1	borgpetersenii	serovar	L0066	1	100.0	100.0
+GCF_000343555.1	kirschneri	serovar	Vehlefans 2	1	100.0	100.0
+GCF_000342725.1	kirschneri	serovar	Vehlefans 3	0	0.0	0
+GCF_000343395.1	santarosai	serovar	Oregon	3	100.0	100.0, 100.0, 100.0
+GCF_000342645.1	interrogans	serovar	P2655	1	100.0	100.0
+GCF_000343415.1	interrogans	serovar	2008720116	2	100.0	100.0, 100.0
+GCF_000343435.1	interrogans	serovar	2008720117	2	100.0	100.0, 100.0
+GCF_000342925.1	interrogans	serovar	Szwajizak	1	100.0	100.0
+GCF_000343475.1	interrogans	serovar	2006006972	1	100.0	100.0
+GCF_000342985.1	interrogans	serovar	2006006982	3	100.0	100.0, 100.0, 100.0
+GCF_000343005.1	interrogans	serovar	2002000634	3	100.0	100.0, 100.0, 100.0
+GCF_000343105.1	interrogans	serovar	2002009669	1	100.0	100.0
+GCF_000342765.1	interrogans	serovar	2007005490	1	100.0	100.0
+GCF_000343495.1	interrogans	serovar	P2431	1	100.0	100.0
+GCF_000343535.1	interrogans	serovar	Fiocruz LV256	1	100.0	100.0
+GCF_000343085.1	interrogans	serovar	Fiocruz LV237	1	100.0	100.0
+GCF_000342825.1	interrogans	serovar	Fiocruz LV4108	4	100.0	100.0, 100.0, 100.0, 100.0
+GCF_000342665.1	interrogans	serovar	Fiocruz LV4113	4	100.0	100.0, 100.0, 100.0, 100.0
+GCF_000342845.1	interrogans	serovar	Fiocruz LV4118	1	100.0	100.0
+GCF_000343185.1	interrogans	serovar	Fiocruz LV4152	3	100.0	100.0, 100.0, 100.0
+GCF_000343595.1	interrogans	serovar	200701182	3	100.0	100.0, 100.0, 100.0
+GCF_000343575.1	interrogans	serovar	Fiocruz LV4160	4	100.0	100.0, 100.0, 100.0, 100.0
+GCF_000343615.1	interrogans	serovar	Fiocruz LV2750	2	100.0	100.0, 100.0
+GCF_000343635.1	interrogans	serovar	Fiocruz LV2766	3	100.0	100.0, 100.0, 100.0
+GCF_000343205.1	interrogans	serovar	Fiocruz LV2807	4	100.0	100.0, 100.0, 100.0, 100.0
+GCF_000343655.1	interrogans	serovar	Fiocruz LV2816	4	100.0	100.0, 100.0, 100.0, 100.0
+GCF_000342965.1	interrogans	serovar	Fiocruz LV2841	3	100.0	100.0, 100.0, 100.0
+GCF_000343245.1	interrogans	serovar	Fiocruz LV2919	3	100.0	100.0, 100.0, 100.0
+GCF_000343225.1	interrogans	serovar	Fiocruz LV4173	3	100.0	100.0, 100.0, 100.0
+GCF_000343675.1	interrogans	serovar	Fiocruz LV3076	3	100.0	100.0, 100.0, 100.0
+GCF_000343695.1	interrogans	serovar	Fiocruz LV3213	3	100.0	100.0, 100.0, 100.0
+GCF_000343715.1	interrogans	serovar	Fiocruz LV4212	1	100.0	100.0
+GCF_000343735.1	interrogans	serovar	Wijnberg	3	100.0	100.0, 100.0, 100.0
+GCF_000343755.1	interrogans	serovar	Fiocruz LV4217	1	100.0	100.0
+GCF_000343775.1	interrogans	serovar	Fiocruz LV4174	3	100.0	100.0, 100.0, 100.0
+GCF_000343795.1	interrogans	serovar	Fiocruz LV4188	1	100.0	100.0
+GCF_000342705.1	interrogans	serovar	Fiocruz LV3409	1	100.0	100.0
+GCF_000343265.1	interrogans	serovar	Fiocruz LV4034	3	100.0	100.0, 100.0, 100.0
+GCF_000343285.1	interrogans	serovar	Fiocruz LV4211	3	100.0	100.0, 100.0, 100.0
+GCF_000343835.1	interrogans	serovar	Fiocruz LV4234	1	100.0	100.0
+GCF_000343165.1	interrogans	serovar	RGA	1	100.0	100.0
+GCF_000343515.1	interrogans	serovar	201100516	1	100.0	100.0
+GCF_000343305.1	interrogans	serovar	Kantorowic	3	100.0	100.0, 100.0, 100.0
+GCF_000342905.1	interrogans	serovar	Sri Lanka 46	1	100.0	100.0
+GCF_000342865.1	interrogans	serovar	Sri Lanka 39	1	100.0	100.0
+GCF_000342685.1	interrogans	serovar	Sri Lanka 30	1	100.0	100.0
+GCF_000343455.1	interrogans	serovar	2006006973	2	100.0	100.0, 100.0
+GCF_000342805.1	interrogans	serovar	Sri Lanka 14	3	100.0	100.0, 100.0, 100.0
+GCF_000343025.1	interrogans	serovar	2006006962	1	100.0	100.0
+GCF_000343345.1	interrogans	serovar	2006006968	1	100.0	100.0
+GCF_000342745.1	interrogans	serovar	Naam	1	100.0	100.0
+GCF_000343375.1	interrogans	serovar	UP-OM	3	100.0	100.0, 100.0, 100.0
+GCF_000342945.1	interrogans	serovar	K56	1	100.0	100.0
+GCF_000343125.1	interrogans		Fiocruz LV4114	3	100.0	100.0, 100.0, 100.0
+GCF_000343145.1	interrogans		Fiocruz LV4117	3	100.0	100.0, 100.0, 100.0
+GCF_000343815.1	interrogans		Fiocruz LV4225	3	100.0	100.0, 100.0, 100.0
+GCF_000941035.1	interrogans	serovar	56609	2	100.0	100.0, 100.0
+GCF_000526875.1	licerasiae		ATCC BAA-1110	1	100.0	100.0
+GCF_002074815.1	interrogans	serovar	Gui44	1	100.0	100.0
+GCF_001981425.1	santarosai	serovar	2ACAP	2	100.0	100.0, 100.0
+GCF_001584255.1	sp.		ZV016	1	100.0	100.0
+GCF_001969935.1	weilii	serovar	L231	1	100.0	100.0
+GCF_003112675.1	johnsonii		E8	1	100.0	100.0
+GCF_003114815.1	ellinghausenii		E18	0	0.0	0
+GCF_003114835.2	kobayashii		E30	0	0.0	0
+GCF_003114855.1	ryugenii		YH101	0	0.0	0
+GCF_001952675.1	santarosai	serovar	LO-9	2	100.0	100.0, 100.0
+GCF_001981455.1	santarosai	serovar	M72/6-6	2	100.0	100.0, 100.0
+GCF_002150035.1	venezuelensis		CLM-U50	1	100.0	100.0
+GCF_002150045.1	venezuelensis		Bov1	1	100.0	100.0
+GCF_002150055.1	venezuelensis		CLM-R50	1	100.0	100.0
+GCF_002811475.1	hartskeerlii		MCA2-B-A3	1	100.0	100.0
+GCF_002811505.1	hartskeerlii		MCA1-C-A1	1	100.0	100.0
+GCF_002812085.1	levettii		MCA2-B-A1	0	0.0	0
+GCF_002812165.1	levettii		CN6-C-A1	0	0.0	0
+GCF_002812185.1	levettii		CN1-B-A1	0	0.0	0
+GCF_004769265.1	levettii		201800274	0	0.0	0
+GCF_004769485.1	levettii		201800276	0	0.0	0
+GCF_004769515.1	levettii		201800275	0	0.0	0
+GCF_004769795.1	levettii		201701674	0	0.0	0
+GCF_004769805.1	levettii		201601299	0	0.0	0
+GCF_004770015.1	levettii		201702449	0	0.0	0
+GCF_004770375.1	levettii		201701673	0	0.0	0
+GCF_004770425.1	levettii		201601119	0	0.0	0
+GCF_004770915.1	levettii		201701675	0	0.0	0
+GCF_004770975.1	levettii		201601122	0	0.0	0
+GCF_004771255.1	levettii		201601121	0	0.0	0
+GCF_022267485.1	levettii		EMJH29P7C5P1	0	0.0	0
+GCF_002812125.1	brenneri		JW2-C-A2	0	0.0	0
+GCF_004769295.1	brenneri		201800277	0	0.0	0
+GCF_002811765.1	saintgironsiae		FH4-C-A2	1	100.0	100.0
+GCF_002811925.1	barantonii		FH4-C-A1	1	100.0	100.0
+GCF_004770795.1	barantonii		201702444	1	100.0	100.0
+GCF_002811845.1	adleri		FH2-B-C1	1	100.0	100.0
+GCF_002811985.1	adleri		FH2-B-D1	1	100.0	100.0
+GCF_004770415.1	adleri		201601302	1	100.0	100.0
+GCF_002811945.1	harrisiae		FH2-B-A1	0	0.0	0
+GCF_002812135.1	harrisiae		FH2-B-B2	0	0.0	0
+GCF_002811865.1	perolatii		FH1-B-C1	0	0.0	0
+GCF_002811875.1	perolatii		FH1-B-B1	0	0.0	0
+GCF_002812205.1	neocaledonica		ES4-C-A1	1	100.0	100.0
+GCF_002811955.1	ellisii		ATI7-C-A5	1	100.0	100.0
+GCF_002812215.1	ellisii		ATI7-C-A3	1	100.0	100.0
+GCF_002812045.1	haakeii		ATI7-C-A4	1	100.0	100.0
+GCF_002812225.1	haakeii		ATI7-C-A2	1	100.0	100.0
+GCF_003545865.1	yasudae		B21	1	100.0	100.0
+GCF_003545925.1	yasudae		F1	1	100.0	100.0
+GCF_004769695.1	yasudae		201702447	1	100.0	100.0
+GCF_004769735.1	yasudae		201702446	1	100.0	100.0
+GCF_004770135.1	yasudae		L1S1	1	100.0	100.0
+GCF_004770235.1	yasudae		201702418	1	100.0	100.0
+GCF_004770515.1	yasudae		201601115	1	100.0	100.0
+GCF_004770815.1	yasudae		201702445	1	100.0	100.0
+GCF_019266585.1	yasudae		BJ3	1	100.0	100.0
+GCF_003545875.1	stimsonii		AMB6-RJ	1	100.0	100.0
+GCF_003545885.1	stimsonii		Yale	1	100.0	100.0
+GCF_004769715.1	stimsonii		201702407	1	100.0	100.0
+GCF_004770035.1	stimsonii		SSW20	1	100.0	100.0
+GCF_004771005.1	ilyithenensis		201400974	0	0.0	0
+GCF_004770555.1	bandrabouensis		201601109	0	0.0	0
+GCF_004770905.1	bandrabouensis		201601111	0	0.0	0
+GCF_022267385.1	bandrabouensis		HAN37P10C3P1	0	0.0	0
+GCF_022267415.1	bandrabouensis		HAN37P10C1P1	0	0.0	0
+GCF_022267435.1	bandrabouensis		HAN37P10C2P1	0	0.0	0
+GCF_022267445.1	bandrabouensis		HAN37P10C2P2	0	0.0	0
+GCF_004770895.1	dzoumogneensis		201601113	1	100.0	100.0
+GCF_004769525.1	bouyouniensis		201800273	0	0.0	0
+GCF_004770445.1	bouyouniensis		201601297	0	0.0	0
+GCF_004770625.1	bouyouniensis		201800295	0	0.0	0
+GCF_004770475.1	mtsangambouensis		201601298	0	0.0	0
+GCF_022267475.1	mtsangambouensis		HAN29P10C1P1	0	0.0	0
+GCF_004769635.1	jelokensis		201702451	0	0.0	0
+GCF_004769775.1	jelokensis		201702419	0	0.0	0
+GCF_004770215.1	congkakensis		201702425	0	0.0	0
+GCF_004770225.1	congkakensis		201702422	0	0.0	0
+GCF_004770265.1	congkakensis		201702421	0	0.0	0
+GCF_004769665.1	kemamanensis		201702454	0	0.0	0
+GCF_004769615.1	sarikeiensis		201702455	1	100.0	100.0
+GCF_004770745.1	ognonensis		201702476	0	0.0	0
+GCF_004769575.1	perdikensis		201702692	0	0.0	0
+GCF_004769555.1	koniambonensis		201800265	1	100.0	100.0
+GCF_004769455.1	montravelensis		201800279	0	0.0	0
+GCF_004770045.1	montravelensis		201800278	0	0.0	0
+GCF_004769285.1	bourretii		201800280	0	0.0	0
+GCF_004769355.1	bourretii		201800266	0	0.0	0
+GCF_004769655.1	bourretii		201800281	0	0.0	0
+GCF_004770145.1	bourretii		201800267	0	0.0	0
+GCF_004770765.1	noumeaensis		201800287	0	0.0	0
+GCF_004769225.1	kanakyensis		201800294	0	0.0	0
+GCF_004769235.1	kanakyensis		201800292	0	0.0	0
+GCF_004769445.1	kanakyensis		201800293	0	0.0	0
+GCF_004769425.1	gomenensis		201800298	1	100.0	100.0
+GCF_004770155.1	gomenensis		201800299	1	100.0	100.0
+GCF_004770595.1	gomenensis		201800300	1	100.0	100.0
+GCF_004770605.1	gomenensis		201800297	1	100.0	100.0
+GCF_004770105.1	andrefontaineae		201800301	1	100.0	100.0
+GCF_004771275.1	fluminis		SCS5	1	100.0	100.0
+GCF_004769195.1	fletcheri		SSW15	1	100.0	100.0
+GCF_004769405.1	selangorensis		SSW17	1	100.0	100.0
+GCF_004769745.1	selangorensis		201702405	1	100.0	100.0
+GCF_004770835.1	selangorensis		201702406	1	100.0	100.0
+GCF_004769595.1	langatensis		201702690	1	100.0	100.0
+GCF_004770615.1	langatensis		SSW18	1	100.0	100.0
+GCF_004770055.1	semungkisensis		SSS9	1	100.0	100.0
+GCF_001729245.1	tipperaryensis		GWTS#1	2	100.0	100.0, 100.0
+GCF_014858135.1	interrogans	serovar	1530d	2	100.0	100.0, 100.0
+GCF_016919175.1	ainlahdjerensis		201903070	1	100.0	100.0
+GCF_016918785.1	ainazelensis		201903071	1	100.0	100.0
+GCF_016919165.1	chreensis		201903075	0	0.0	0
+GCF_016918735.1	abararensis		201903074	0	0.0	0
+GCF_002811975.1	sp.		ATI2-C-A1	0	0.0	0
+GCF_020544505.1	sp.		mild_001	1	100.0	100.0
+GCF_021014355.1	sp.		Pond_2020	1	100.0	100.0
+GCF_022267375.1	sp.		LGVF01	2	100.0	100.0, 100.0
+GCF_022267325.1	sp.		LGVF02	2	100.0	100.0, 100.0
